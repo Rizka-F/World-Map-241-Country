@@ -1,5 +1,4 @@
 # World-Map-241-Country
-# World-Map-241-Country
 
 #
 #### This is a GeoJSON world map containing data for 241 countries. It is the map that I used for a data visualisation project and mapping application. The file was sourced from https://geojson-maps.kyd.au/
@@ -258,4 +257,4 @@
 
 #
 
-#### GeoJSON Code: You can access the GeoJSON file from this link https://drive.proton.me/urls/8ZJ13FVNWM#BpHlggb6ermQ , or you can copy the code below
+#### GeoJSON Code: You can access the GeoJSON file from this link https://drive.proton.me/urls/8ZJ13FVNWM#BpHlggb6ermQ , or you can copy from the file that I add
